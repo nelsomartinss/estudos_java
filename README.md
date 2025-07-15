@@ -1,4 +1,4 @@
-# 🧠 Exercícios em Java
+# 🧠 Fundamentos de Programação em Java
 
 Este repositório contém minha jornada de aprendizado da linguagem **Java**, com foco em fundamentos e prática de exercícios. 
 
