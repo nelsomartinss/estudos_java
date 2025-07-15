@@ -22,5 +22,5 @@ Praticar os principais conceitos da linguagem Java com exercícios simples e bem
 A lista inicial de exercícios foi feita pelo professor Gustavo Guanabara para o seu curso de lógica de programação. Você pode encontrá-la neste mesmo repositório. Futuramente estarei resolvendo outras listas de exercícios.
 
 # ✍️ Autor
-**Nelson Martins**
+**Nelson Martins** <br>
 Desenvolvedor Back-end | Apaixonado por tecnologia e soluções inteligentes.
