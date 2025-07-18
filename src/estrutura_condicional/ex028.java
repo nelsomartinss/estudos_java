@@ -20,7 +20,6 @@ public class ex028 {
             System.out.printf("Média: %.1f: APROVADO", media);
         } else {
             System.out.print("Média inválida! Tente novamente!");
-
         }
 
     }
