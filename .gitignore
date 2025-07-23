@@ -33,3 +33,6 @@ bin/
 /.idea/
 /*.iml
 *.class
+
+# pdfs
+Exercícios-de-Algoritmos-1-100.pdf
