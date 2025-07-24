@@ -43,6 +43,7 @@ public class ex060 {
                 Quantidade de pessoas que pesam mais de 90Kg: %d
                 Quantidade de pessoas que pesam menos de 50Kg tem menos de 1.60m: %d
                 Quantidade de pessoas que medem mais de 1.90m pesam mais de 100Kg: %d
-                """, mediaAltura, totalPessoasAcimaDos90Kg, totalPessoasAbaixoDos50KgEAbaixoDos160Cm, totalPessoasAcimaDos100KgEAcimaDos190Cm);
+                """, mediaAltura, totalPessoasAcimaDos90Kg, totalPessoasAbaixoDos50KgEAbaixoDos160Cm,
+                totalPessoasAcimaDos100KgEAcimaDos190Cm);
     }
 }
