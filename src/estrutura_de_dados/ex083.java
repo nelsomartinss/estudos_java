@@ -13,12 +13,13 @@ public class ex083 {
             int entradaNumeros = Integer.parseInt(input.nextLine());
             listaNumeros.add(entradaNumeros);
 
-            if(entradaNumeros % 10 == 0){
-                listaMultiplosDe10.add(entradaNumeros);
-            }
+        if(entradaNumeros % 10 == 0){
+            listaMultiplosDe10.add(i);
+        }
+
         }
         System.out.printf("Lista de números: %s\n", listaNumeros);
-        System.out.printf("Números múltiplos de 10: %s\n", listaMultiplosDe10);
+        System.out.printf("Posição dos números múltiplos de 10: %s\n", listaMultiplosDe10);
 
 
     }
