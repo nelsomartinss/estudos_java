@@ -8,7 +8,7 @@ public class ex083 {
         ArrayList<Integer> listaNumeros = new ArrayList<>();
         ArrayList<Integer> listaMultiplosDe10 = new ArrayList<>();
 
-        for(int i = 0; i < 3; i++){
+        for(int i = 0; i < 15; i++){
             System.out.print("Digite um número: ");
             int entradaNumeros = Integer.parseInt(input.nextLine());
             listaNumeros.add(entradaNumeros);
