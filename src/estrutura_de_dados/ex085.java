@@ -11,7 +11,7 @@ public class ex085 {
         int indice = 0;
         Scanner input = new Scanner(System.in);
 
-        for(int i = 0; i < 10; i++){
+        for(int i = 0; i < 30; i++){
             int numero = gerador.nextInt(15) + 1; // 1 a 15
             listaNumeros.add(numero);
         }
