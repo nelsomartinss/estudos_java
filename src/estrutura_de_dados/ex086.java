@@ -11,7 +11,7 @@ public class ex086 {
         double somaIdades = 0;
         double numeroDeIdades = 0;
         double mediaIdades;
-        int maiorIdade = 0;
+        int maiorIdade = -1;
 
         for(int i = 1; i <= 8; i++){
 
